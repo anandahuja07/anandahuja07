@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anandahuja07
+- 👋 Hi, My name is Anand Ahuja
 - 👀 I’m interested in learning C++ and Python
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on Using C++ & Python for Industrial Automation
